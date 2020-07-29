@@ -1,0 +1,14 @@
+{
+    "DstIp":"",
+    "IgnoreIps":
+    [
+        "127.0.0.1"
+    ],
+    "Duration":1,
+    "ServerUri":"https://localhost:5001/api/suspicioussources",
+    "ReportOptions":[
+        "REST"
+    ],
+    "Strategy": "TCP_CONNECT",
+    "IndexDevice":3
+}
